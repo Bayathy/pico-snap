@@ -1,3 +1,1 @@
-import { config as expoConfig } from "@repo/eslint-config/expo";
-
-export default expoConfig;
+export { config as default } from "@repo/eslint-config/expo";
